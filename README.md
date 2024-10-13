@@ -46,7 +46,10 @@ MinuteRecipe is a web application that helps users create recipes based on the i
 ## Contributors
 ---------------
 
-* Aman Gupta (Team Maleveolent)
+* Aman Gupta
+* Anuj Kumar Yadav
+* Astitva Singh
+* Khushan Poptani 
 
 ## License
 ---------
